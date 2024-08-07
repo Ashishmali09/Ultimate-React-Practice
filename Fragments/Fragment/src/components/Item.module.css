@@ -1,0 +1,12 @@
+.am-item {
+  background-color: burlywood;
+}
+
+.am-span {
+  font-weight: 700;
+  color: teal;
+}
+
+.button {
+  float: right;
+}

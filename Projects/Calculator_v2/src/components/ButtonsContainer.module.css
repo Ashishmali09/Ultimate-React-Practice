@@ -1,0 +1,14 @@
+.buttonsContainer {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.button {
+  width: 72px;
+  height: 72px;
+  margin: 4px;
+  font-weight: bold;
+  font-size: large;
+  background-color: cadetblue;
+}

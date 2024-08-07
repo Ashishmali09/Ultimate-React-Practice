@@ -1,0 +1,15 @@
+.am-row {
+  margin: 9px 4px;
+}
+
+.am-button {
+  min-width: 90px;
+}
+
+.align-btn {
+  margin-left: -100px;
+}
+.todo-container {
+  background-color: rgb(103, 205, 216);
+  margin: 0 45px;
+}

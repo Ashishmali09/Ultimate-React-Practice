@@ -1,0 +1,21 @@
+/* .center-clock {
+  margin: auto;
+  width: 50%;
+  text-align: center;
+} */
+
+.center-clock {
+  text-align: center;
+  margin: 18px;
+}
+.name {
+  font-size: 5vw;
+  margin: 20px 5px;
+}
+.note {
+  font-size: 45px;
+  margin-bottom: 20px;
+}
+#time {
+  font-size: 40px;
+}
